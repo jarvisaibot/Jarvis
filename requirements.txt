@@ -2,7 +2,7 @@ numpy
 argparse
 cv2
 os
-Pillow
+pillow
 speech_recognition
 time
 win32com.client
