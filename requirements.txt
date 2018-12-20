@@ -1,0 +1,9 @@
+numpy
+argparse
+cv2
+os
+Pillow
+speech_recognition
+time
+win32com.client
+webbrowser 
