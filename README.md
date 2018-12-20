@@ -1,13 +1,5 @@
 # Jarvis
 
-Packages Needed:
-      
-      Numpy
-      
-      argparse
-      
-      cv2
-      
-      os
-      
-      PIL (Pillow)
+To Get All The Packages Needed:
+      Windows: python -m pip install -r requirments.txt
+      Rest: pip install -r requirments.txt
