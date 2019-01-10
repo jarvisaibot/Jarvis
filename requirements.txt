@@ -1,6 +1,6 @@
 numpy
 argparse
-cv2
+opencv-python
 os
 pillow
 speech_recognition
